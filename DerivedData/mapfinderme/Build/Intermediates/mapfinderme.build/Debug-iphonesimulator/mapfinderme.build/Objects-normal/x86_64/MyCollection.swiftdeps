@@ -1,0 +1,458 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MyCollection"
+provides-nominal:
+- "C11mapfinderme12MyCollection"
+provides-member:
+- ["C11mapfinderme12MyCollection", ""]
+provides-dynamic-lookup:
+- "allSectionColors"
+depends-top-level:
+- !private "UIEdgeInsets"
+- "MyCollection"
+- "UICollectionViewController"
+- !private "CGSize"
+- "Array"
+- !private "UICollectionViewFlowLayout"
+- !private "UICollectionViewCell"
+- !private "StringLiteralType"
+- "NSCoder"
+- "UICollectionViewLayout"
+- "UIColor"
+depends-member:
+- !private ["Ps9AnyObject", "CGSize"]
+- !private ["Ps9AnyObject", "UICollectionViewCell"]
+- !private ["Ps9AnyObject", "UICollectionViewFlowLayout"]
+- ["Ps9AnyObject", "UIColor"]
+- !private ["Ps9AnyObject", "UIEdgeInsets"]
+- ["Ps9AnyObject", "allSectionColors"]
+- ["Ps9AnyObject", "blueColor"]
+- !private ["Ps9AnyObject", "classForCoder"]
+- !private ["Ps9AnyObject", "collectionView"]
+- ["Ps9AnyObject", "greenColor"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "itemSize"]
+- !private ["Ps9AnyObject", "minimumInteritemSpacing"]
+- !private ["Ps9AnyObject", "minimumLineSpacing"]
+- ["Ps9AnyObject", "redColor"]
+- !private ["Ps9AnyObject", "registerClass"]
+- !private ["Ps9AnyObject", "scrollDirection"]
+- !private ["Ps9AnyObject", "sectionInset"]
+- ["Ps9AnyObject", ""]
+- ["Sa", "Element"]
+- ["Ps23ArrayLiteralConvertible", "Element"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["VSC6CGSize", "init"]
+- !private ["Ps11CVarArgType", "CGSize"]
+- !private ["Ps11CVarArgType", "UICollectionViewCell"]
+- !private ["Ps11CVarArgType", "UICollectionViewFlowLayout"]
+- ["Ps11CVarArgType", "UIColor"]
+- !private ["Ps11CVarArgType", "UIEdgeInsets"]
+- ["Ps11CVarArgType", "allSectionColors"]
+- ["Ps11CVarArgType", "blueColor"]
+- !private ["Ps11CVarArgType", "classForCoder"]
+- !private ["Ps11CVarArgType", "collectionView"]
+- ["Ps11CVarArgType", "greenColor"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "itemSize"]
+- !private ["Ps11CVarArgType", "minimumInteritemSpacing"]
+- !private ["Ps11CVarArgType", "minimumLineSpacing"]
+- ["Ps11CVarArgType", "redColor"]
+- !private ["Ps11CVarArgType", "registerClass"]
+- !private ["Ps11CVarArgType", "scrollDirection"]
+- !private ["Ps11CVarArgType", "sectionInset"]
+- ["Ps11CVarArgType", ""]
+- ["Ps14CollectionType", "Element"]
+- !private ["Ps28CustomDebugStringConvertible", "CGSize"]
+- ["Ps28CustomDebugStringConvertible", "Element"]
+- !private ["Ps28CustomDebugStringConvertible", "UICollectionViewCell"]
+- !private ["Ps28CustomDebugStringConvertible", "UICollectionViewFlowLayout"]
+- ["Ps28CustomDebugStringConvertible", "UIColor"]
+- !private ["Ps28CustomDebugStringConvertible", "UIEdgeInsets"]
+- ["Ps28CustomDebugStringConvertible", "allSectionColors"]
+- ["Ps28CustomDebugStringConvertible", "blueColor"]
+- !private ["Ps28CustomDebugStringConvertible", "classForCoder"]
+- !private ["Ps28CustomDebugStringConvertible", "collectionView"]
+- ["Ps28CustomDebugStringConvertible", "greenColor"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "itemSize"]
+- !private ["Ps28CustomDebugStringConvertible", "minimumInteritemSpacing"]
+- !private ["Ps28CustomDebugStringConvertible", "minimumLineSpacing"]
+- ["Ps28CustomDebugStringConvertible", "redColor"]
+- !private ["Ps28CustomDebugStringConvertible", "registerClass"]
+- !private ["Ps28CustomDebugStringConvertible", "scrollDirection"]
+- !private ["Ps28CustomDebugStringConvertible", "sectionInset"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "CGSize"]
+- ["Ps23CustomStringConvertible", "Element"]
+- !private ["Ps23CustomStringConvertible", "UICollectionViewCell"]
+- !private ["Ps23CustomStringConvertible", "UICollectionViewFlowLayout"]
+- ["Ps23CustomStringConvertible", "UIColor"]
+- !private ["Ps23CustomStringConvertible", "UIEdgeInsets"]
+- ["Ps23CustomStringConvertible", "allSectionColors"]
+- ["Ps23CustomStringConvertible", "blueColor"]
+- !private ["Ps23CustomStringConvertible", "classForCoder"]
+- !private ["Ps23CustomStringConvertible", "collectionView"]
+- ["Ps23CustomStringConvertible", "greenColor"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "itemSize"]
+- !private ["Ps23CustomStringConvertible", "minimumInteritemSpacing"]
+- !private ["Ps23CustomStringConvertible", "minimumLineSpacing"]
+- ["Ps23CustomStringConvertible", "redColor"]
+- !private ["Ps23CustomStringConvertible", "registerClass"]
+- !private ["Ps23CustomStringConvertible", "scrollDirection"]
+- !private ["Ps23CustomStringConvertible", "sectionInset"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "CGSize"]
+- !private ["Ps9Equatable", "UICollectionViewCell"]
+- !private ["Ps9Equatable", "UICollectionViewFlowLayout"]
+- ["Ps9Equatable", "UIColor"]
+- !private ["Ps9Equatable", "UIEdgeInsets"]
+- !private ["Ps9Equatable", "Vertical"]
+- ["Ps9Equatable", "allSectionColors"]
+- ["Ps9Equatable", "blueColor"]
+- !private ["Ps9Equatable", "classForCoder"]
+- !private ["Ps9Equatable", "collectionView"]
+- ["Ps9Equatable", "greenColor"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "itemSize"]
+- !private ["Ps9Equatable", "minimumInteritemSpacing"]
+- !private ["Ps9Equatable", "minimumLineSpacing"]
+- ["Ps9Equatable", "redColor"]
+- !private ["Ps9Equatable", "registerClass"]
+- !private ["Ps9Equatable", "scrollDirection"]
+- !private ["Ps9Equatable", "sectionInset"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "CGSize"]
+- !private ["Ps8Hashable", "UICollectionViewCell"]
+- !private ["Ps8Hashable", "UICollectionViewFlowLayout"]
+- ["Ps8Hashable", "UIColor"]
+- !private ["Ps8Hashable", "UIEdgeInsets"]
+- !private ["Ps8Hashable", "Vertical"]
+- ["Ps8Hashable", "allSectionColors"]
+- ["Ps8Hashable", "blueColor"]
+- !private ["Ps8Hashable", "classForCoder"]
+- !private ["Ps8Hashable", "collectionView"]
+- ["Ps8Hashable", "greenColor"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "itemSize"]
+- !private ["Ps8Hashable", "minimumInteritemSpacing"]
+- !private ["Ps8Hashable", "minimumLineSpacing"]
+- ["Ps8Hashable", "redColor"]
+- !private ["Ps8Hashable", "registerClass"]
+- !private ["Ps8Hashable", "scrollDirection"]
+- !private ["Ps8Hashable", "sectionInset"]
+- ["Ps8Hashable", ""]
+- ["Ps9Indexable", "Element"]
+- ["Ps21MutableCollectionType", "Element"]
+- ["Ps16MutableIndexable", "Element"]
+- ["Ps16MutableSliceable", "Element"]
+- !private ["C11mapfinderme12MyCollection", "CGSize"]
+- ["C11mapfinderme12MyCollection", "NSCoder"]
+- !private ["C11mapfinderme12MyCollection", "UICollectionViewCell"]
+- !private ["C11mapfinderme12MyCollection", "UICollectionViewFlowLayout"]
+- ["C11mapfinderme12MyCollection", "UICollectionViewLayout"]
+- ["C11mapfinderme12MyCollection", "UIColor"]
+- !private ["C11mapfinderme12MyCollection", "UIEdgeInsets"]
+- ["C11mapfinderme12MyCollection", "allSectionColors"]
+- !private ["C11mapfinderme12MyCollection", "collectionView"]
+- ["C11mapfinderme12MyCollection", "deinit"]
+- ["C11mapfinderme12MyCollection", "init"]
+- !private ["PSo8NSCoding", "CGSize"]
+- !private ["PSo8NSCoding", "UICollectionViewCell"]
+- !private ["PSo8NSCoding", "UICollectionViewFlowLayout"]
+- ["PSo8NSCoding", "UIColor"]
+- !private ["PSo8NSCoding", "UIEdgeInsets"]
+- ["PSo8NSCoding", "allSectionColors"]
+- ["PSo8NSCoding", "blueColor"]
+- !private ["PSo8NSCoding", "classForCoder"]
+- !private ["PSo8NSCoding", "collectionView"]
+- ["PSo8NSCoding", "greenColor"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "itemSize"]
+- !private ["PSo8NSCoding", "minimumInteritemSpacing"]
+- !private ["PSo8NSCoding", "minimumLineSpacing"]
+- ["PSo8NSCoding", "redColor"]
+- !private ["PSo8NSCoding", "registerClass"]
+- !private ["PSo8NSCoding", "scrollDirection"]
+- !private ["PSo8NSCoding", "sectionInset"]
+- ["PSo8NSCoding", ""]
+- ["PSo9NSCopying", "blueColor"]
+- ["PSo9NSCopying", "greenColor"]
+- ["PSo9NSCopying", "redColor"]
+- !private ["PSo26NSExtensionRequestHandling", "CGSize"]
+- !private ["PSo26NSExtensionRequestHandling", "UICollectionViewCell"]
+- !private ["PSo26NSExtensionRequestHandling", "UICollectionViewFlowLayout"]
+- ["PSo26NSExtensionRequestHandling", "UIColor"]
+- !private ["PSo26NSExtensionRequestHandling", "UIEdgeInsets"]
+- ["PSo26NSExtensionRequestHandling", "allSectionColors"]
+- !private ["PSo26NSExtensionRequestHandling", "collectionView"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["CSo8NSObject", "CGSize"]
+- ["CSo8NSObject", "NSCoder"]
+- !private ["CSo8NSObject", "UICollectionViewCell"]
+- !private ["CSo8NSObject", "UICollectionViewFlowLayout"]
+- ["CSo8NSObject", "UICollectionViewLayout"]
+- ["CSo8NSObject", "UIColor"]
+- !private ["CSo8NSObject", "UIEdgeInsets"]
+- ["CSo8NSObject", "allSectionColors"]
+- ["CSo8NSObject", "blueColor"]
+- !private ["CSo8NSObject", "classForCoder"]
+- !private ["CSo8NSObject", "collectionView"]
+- ["CSo8NSObject", "greenColor"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "itemSize"]
+- !private ["CSo8NSObject", "minimumInteritemSpacing"]
+- !private ["CSo8NSObject", "minimumLineSpacing"]
+- ["CSo8NSObject", "redColor"]
+- !private ["CSo8NSObject", "registerClass"]
+- !private ["CSo8NSObject", "scrollDirection"]
+- !private ["CSo8NSObject", "sectionInset"]
+- !private ["PSo16NSObjectProtocol", "CGSize"]
+- !private ["PSo16NSObjectProtocol", "UICollectionViewCell"]
+- !private ["PSo16NSObjectProtocol", "UICollectionViewFlowLayout"]
+- ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "UIEdgeInsets"]
+- ["PSo16NSObjectProtocol", "allSectionColors"]
+- ["PSo16NSObjectProtocol", "blueColor"]
+- !private ["PSo16NSObjectProtocol", "classForCoder"]
+- !private ["PSo16NSObjectProtocol", "collectionView"]
+- ["PSo16NSObjectProtocol", "greenColor"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "itemSize"]
+- !private ["PSo16NSObjectProtocol", "minimumInteritemSpacing"]
+- !private ["PSo16NSObjectProtocol", "minimumLineSpacing"]
+- ["PSo16NSObjectProtocol", "redColor"]
+- !private ["PSo16NSObjectProtocol", "registerClass"]
+- !private ["PSo16NSObjectProtocol", "scrollDirection"]
+- !private ["PSo16NSObjectProtocol", "sectionInset"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo14NSSecureCoding", "blueColor"]
+- ["PSo14NSSecureCoding", "greenColor"]
+- ["PSo14NSSecureCoding", "redColor"]
+- ["Ps30RangeReplaceableCollectionType", "Element"]
+- !private ["Ps16RawRepresentable", "Vertical"]
+- ["Ps12SequenceType", "Element"]
+- !private ["Vs12StaticString", "deinit"]
+- !private ["PSo29UIAccessibilityIdentification", "classForCoder"]
+- !private ["PSo29UIAccessibilityIdentification", "registerClass"]
+- !private ["PSo12UIAppearance", "classForCoder"]
+- !private ["PSo12UIAppearance", "registerClass"]
+- !private ["PSo21UIAppearanceContainer", "CGSize"]
+- !private ["PSo21UIAppearanceContainer", "UICollectionViewCell"]
+- !private ["PSo21UIAppearanceContainer", "UICollectionViewFlowLayout"]
+- ["PSo21UIAppearanceContainer", "UIColor"]
+- !private ["PSo21UIAppearanceContainer", "UIEdgeInsets"]
+- ["PSo21UIAppearanceContainer", "allSectionColors"]
+- !private ["PSo21UIAppearanceContainer", "classForCoder"]
+- !private ["PSo21UIAppearanceContainer", "collectionView"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "registerClass"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo24UICollectionReusableView", "classForCoder"]
+- !private ["CSo16UICollectionView", "registerClass"]
+- !private ["CSo20UICollectionViewCell", "classForCoder"]
+- !private ["CSo26UICollectionViewController", "CGSize"]
+- ["CSo26UICollectionViewController", "NSCoder"]
+- !private ["CSo26UICollectionViewController", "UICollectionViewCell"]
+- !private ["CSo26UICollectionViewController", "UICollectionViewFlowLayout"]
+- ["CSo26UICollectionViewController", "UICollectionViewLayout"]
+- ["CSo26UICollectionViewController", "UIColor"]
+- !private ["CSo26UICollectionViewController", "UIEdgeInsets"]
+- ["CSo26UICollectionViewController", "allSectionColors"]
+- !private ["CSo26UICollectionViewController", "collectionView"]
+- ["CSo26UICollectionViewController", "init"]
+- ["CSo26UICollectionViewController", ""]
+- !private ["PSo26UICollectionViewDataSource", "CGSize"]
+- !private ["PSo26UICollectionViewDataSource", "UICollectionViewCell"]
+- !private ["PSo26UICollectionViewDataSource", "UICollectionViewFlowLayout"]
+- ["PSo26UICollectionViewDataSource", "UIColor"]
+- !private ["PSo26UICollectionViewDataSource", "UIEdgeInsets"]
+- ["PSo26UICollectionViewDataSource", "allSectionColors"]
+- !private ["PSo26UICollectionViewDataSource", "collectionView"]
+- ["PSo26UICollectionViewDataSource", "init"]
+- ["PSo26UICollectionViewDataSource", ""]
+- !private ["PSo24UICollectionViewDelegate", "CGSize"]
+- !private ["PSo24UICollectionViewDelegate", "UICollectionViewCell"]
+- !private ["PSo24UICollectionViewDelegate", "UICollectionViewFlowLayout"]
+- ["PSo24UICollectionViewDelegate", "UIColor"]
+- !private ["PSo24UICollectionViewDelegate", "UIEdgeInsets"]
+- ["PSo24UICollectionViewDelegate", "allSectionColors"]
+- !private ["PSo24UICollectionViewDelegate", "collectionView"]
+- ["PSo24UICollectionViewDelegate", "init"]
+- ["PSo24UICollectionViewDelegate", ""]
+- !private ["CSo26UICollectionViewFlowLayout", "init"]
+- !private ["CSo26UICollectionViewFlowLayout", "itemSize"]
+- !private ["CSo26UICollectionViewFlowLayout", "minimumInteritemSpacing"]
+- !private ["CSo26UICollectionViewFlowLayout", "minimumLineSpacing"]
+- !private ["CSo26UICollectionViewFlowLayout", "scrollDirection"]
+- !private ["CSo26UICollectionViewFlowLayout", "sectionInset"]
+- !private ["CSo22UICollectionViewLayout", "init"]
+- !private ["CSo22UICollectionViewLayout", "itemSize"]
+- !private ["CSo22UICollectionViewLayout", "minimumInteritemSpacing"]
+- !private ["CSo22UICollectionViewLayout", "minimumLineSpacing"]
+- !private ["CSo22UICollectionViewLayout", "scrollDirection"]
+- !private ["CSo22UICollectionViewLayout", "sectionInset"]
+- !private ["OSC31UICollectionViewScrollDirection", "Vertical"]
+- ["CSo7UIColor", "blueColor"]
+- ["CSo7UIColor", "greenColor"]
+- ["CSo7UIColor", "redColor"]
+- !private ["PSo18UIContentContainer", "CGSize"]
+- !private ["PSo18UIContentContainer", "UICollectionViewCell"]
+- !private ["PSo18UIContentContainer", "UICollectionViewFlowLayout"]
+- ["PSo18UIContentContainer", "UIColor"]
+- !private ["PSo18UIContentContainer", "UIEdgeInsets"]
+- ["PSo18UIContentContainer", "allSectionColors"]
+- !private ["PSo18UIContentContainer", "collectionView"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "classForCoder"]
+- !private ["PSo17UICoordinateSpace", "registerClass"]
+- !private ["PSo13UIDynamicItem", "classForCoder"]
+- !private ["PSo13UIDynamicItem", "registerClass"]
+- !private ["VSC12UIEdgeInsets", "init"]
+- !private ["PSo18UIFocusEnvironment", "CGSize"]
+- !private ["PSo18UIFocusEnvironment", "UICollectionViewCell"]
+- !private ["PSo18UIFocusEnvironment", "UICollectionViewFlowLayout"]
+- ["PSo18UIFocusEnvironment", "UIColor"]
+- !private ["PSo18UIFocusEnvironment", "UIEdgeInsets"]
+- ["PSo18UIFocusEnvironment", "allSectionColors"]
+- !private ["PSo18UIFocusEnvironment", "classForCoder"]
+- !private ["PSo18UIFocusEnvironment", "collectionView"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "registerClass"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo11UIResponder", "CGSize"]
+- ["CSo11UIResponder", "NSCoder"]
+- !private ["CSo11UIResponder", "UICollectionViewCell"]
+- !private ["CSo11UIResponder", "UICollectionViewFlowLayout"]
+- ["CSo11UIResponder", "UICollectionViewLayout"]
+- ["CSo11UIResponder", "UIColor"]
+- !private ["CSo11UIResponder", "UIEdgeInsets"]
+- ["CSo11UIResponder", "allSectionColors"]
+- !private ["CSo11UIResponder", "classForCoder"]
+- !private ["CSo11UIResponder", "collectionView"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "registerClass"]
+- !private ["CSo12UIScrollView", "registerClass"]
+- !private ["PSo20UIScrollViewDelegate", "CGSize"]
+- !private ["PSo20UIScrollViewDelegate", "UICollectionViewCell"]
+- !private ["PSo20UIScrollViewDelegate", "UICollectionViewFlowLayout"]
+- ["PSo20UIScrollViewDelegate", "UIColor"]
+- !private ["PSo20UIScrollViewDelegate", "UIEdgeInsets"]
+- ["PSo20UIScrollViewDelegate", "allSectionColors"]
+- !private ["PSo20UIScrollViewDelegate", "collectionView"]
+- ["PSo20UIScrollViewDelegate", "init"]
+- ["PSo20UIScrollViewDelegate", ""]
+- !private ["PSo16UIStateRestoring", "CGSize"]
+- !private ["PSo16UIStateRestoring", "UICollectionViewCell"]
+- !private ["PSo16UIStateRestoring", "UICollectionViewFlowLayout"]
+- ["PSo16UIStateRestoring", "UIColor"]
+- !private ["PSo16UIStateRestoring", "UIEdgeInsets"]
+- ["PSo16UIStateRestoring", "allSectionColors"]
+- !private ["PSo16UIStateRestoring", "collectionView"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "CGSize"]
+- !private ["PSo18UITraitEnvironment", "UICollectionViewCell"]
+- !private ["PSo18UITraitEnvironment", "UICollectionViewFlowLayout"]
+- ["PSo18UITraitEnvironment", "UIColor"]
+- !private ["PSo18UITraitEnvironment", "UIEdgeInsets"]
+- ["PSo18UITraitEnvironment", "allSectionColors"]
+- !private ["PSo18UITraitEnvironment", "classForCoder"]
+- !private ["PSo18UITraitEnvironment", "collectionView"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "registerClass"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "classForCoder"]
+- !private ["CSo6UIView", "registerClass"]
+- !private ["CSo16UIViewController", "CGSize"]
+- ["CSo16UIViewController", "NSCoder"]
+- !private ["CSo16UIViewController", "UICollectionViewCell"]
+- !private ["CSo16UIViewController", "UICollectionViewFlowLayout"]
+- ["CSo16UIViewController", "UICollectionViewLayout"]
+- ["CSo16UIViewController", "UIColor"]
+- !private ["CSo16UIViewController", "UIEdgeInsets"]
+- ["CSo16UIViewController", "allSectionColors"]
+- !private ["CSo16UIViewController", "collectionView"]
+- ["CSo16UIViewController", "init"]
+- ["Ps10_ArrayType", "Element"]
+- ["Ps24_ColorLiteralConvertible", "blueColor"]
+- ["Ps24_ColorLiteralConvertible", "greenColor"]
+- ["Ps24_ColorLiteralConvertible", "redColor"]
+- ["Ps24_DestructorSafeContainer", "Element"]
+- ["Ps21_ObjectiveCBridgeable", "Element"]
+- ["Ps12_Reflectable", "Element"]
+- !private ["Ps12_Reflectable", "classForCoder"]
+- !private ["Ps12_Reflectable", "init"]
+- !private ["Ps12_Reflectable", "registerClass"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- "Ps23ArrayLiteralConvertible"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC6CGSize"
+- "Ps11CVarArgType"
+- "Ps14CollectionType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "Ps9Indexable"
+- "Ps21MutableCollectionType"
+- "Ps16MutableIndexable"
+- "Ps16MutableSliceable"
+- "C11mapfinderme12MyCollection"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "Ps30RangeReplaceableCollectionType"
+- !private "Ps16RawRepresentable"
+- "Ps12SequenceType"
+- !private "Vs12StaticString"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo24UICollectionReusableView"
+- !private "CSo16UICollectionView"
+- !private "CSo20UICollectionViewCell"
+- "CSo26UICollectionViewController"
+- "PSo26UICollectionViewDataSource"
+- "PSo24UICollectionViewDelegate"
+- !private "CSo26UICollectionViewFlowLayout"
+- !private "CSo22UICollectionViewLayout"
+- !private "OSC31UICollectionViewScrollDirection"
+- "CSo7UIColor"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "VSC12UIEdgeInsets"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- !private "CSo12UIScrollView"
+- "PSo20UIScrollViewDelegate"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- "Ps10_ArrayType"
+- "Ps24_ColorLiteralConvertible"
+- "Ps24_DestructorSafeContainer"
+- "Ps21_ObjectiveCBridgeable"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+interface-hash: "615d40e1f40d1f6585b33bae772a827b"
